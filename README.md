@@ -78,6 +78,6 @@ Deep learning gets the headlines, but most production tabular problems are still
 
 ## 👋 About
 
-Saman Fatima — Kaggle Legacy Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
+Saman Fatima — Kaggle Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
 
 ⭐ if you found something useful, and reach out if you want to collaborate.
